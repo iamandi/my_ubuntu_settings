@@ -1,0 +1,189 @@
+zlib                           zlib - zlib compression library
+gio-unix-2.0                   GIO unix specific APIs - unix specific headers for glib I/O library
+inputproto                     InputProto - Input extension headers
+libgflags_nothreads            gflags - A commandline flags library that allows for distributed flags
+protobuf                       Protocol Buffers - Google's Data Interchange Format
+cairo-xcb                      cairo-xcb - XCB surface backend for cairo graphics library
+xshmfence                      xshmfence - The X Shared Memory Fence Library
+gio-2.0                        GIO - glib I/O library
+bash-completion                bash-completion - programmable completion for the bash shell
+cuinj64-6.5                    cuinj64 - CUDA 64-bit Injection Library
+IlmBase                        IlmBase - Base math and exception libraries
+libpng12                       libpng - Loads and saves PNG files
+xinerama                       Xinerama - The Xinerama Library
+harfbuzz-icu                   harfbuzz - HarfBuzz text shaping library ICU integration
+cairo-gobject                  cairo-gobject - gobject functions for cairo graphics library
+hwloc                          hwloc - Hardware locality detection and management library
+curand-6.5                     curand - CUDA Random Number Generation Library
+cairo-ps                       cairo-ps - PostScript surface backend for cairo graphics library
+gmodule-2.0                    GModule - Dynamic module loader for GLib
+libswscale                     libswscale - Libav image rescaling library
+xfce4-session-2.0              xfce4-session - Xfce 4 session manager
+randrproto                     RandrProto - Randr extension headers
+glib-2.0                       GLib - C Utility Library
+xdmcp                          Xdmcp - X Display Manager Control Protocol library
+xau                            Xau - X authorization file management libary
+gnome-icon-theme-symbolic      gnome-icon-theme-symbolic - A collection of symbolic icons used as the basis for GNOME themes
+ibus-table                     IBus-Table - Table Based Input Method Framework for Intelligent Input Bus for Linux / Unix OS
+pango                          Pango - Internationalized text handling
+nautilus-sendto                nautilus-sendto - Extend nautilus-sendto through plugins
+libdrm                         libdrm - Userspace interface to kernel DRM services
+gl                             gl - Mesa OpenGL library
+dbus-python                    dbus-python - Python bindings for D-Bus
+fontutil                       FontUtil - Font utilities dirs
+glproto                        GLProto - GL extension headers
+gdk-x11-3.0                    GDK - GTK+ Drawing Kit
+wayland-client                 Wayland Client - Wayland client side library
+libpcrecpp                     libpcrecpp - PCRECPP - C++ wrapper for PCRE
+gdk-pixbuf-xlib-2.0            GdkPixbuf Xlib - GdkPixbuf rendering for Xlib
+ice                            ICE - X Inter Client Exchange Library
+libavutil                      libavutil - Libav utility library
+gdk-pixbuf-2.0                 GdkPixbuf - Image loading and scaling
+libevent_pthreads              libevent_pthreads - libevent_pthreads adds pthreads-based threading support to libevent
+gmodule-no-export-2.0          GModule - Dynamic module loader for GLib
+libdrm_nouveau                 libdrm_nouveau - Userspace interface to nouveau kernel DRM services
+libavformat                    libavformat - Libav container format library
+OpenEXR                        OpenEXR - OpenEXR image library
+pangoft2                       Pango FT2 and Pango Fc - Freetype 2.0 and fontconfig font support for Pango
+sox                            SoX - Audio file format and effects library
+wayland-server                 Wayland Server - Server side implementation of the Wayland protocol
+libpci                         libpci - libpci
+icu-io                         icu-io - International Components for Unicode: Stream and I/O Library
+xrender                        Xrender - X Render Library
+liblzma                        liblzma - General purpose data compression library
+gtk+-3.0                       GTK+ - GTK+ Graphical UI Library
+xcb                            XCB - X-protocol C Binding
+xproto                         Xproto - Xproto headers
+xext                           Xext - Misc X Extension Library
+pthread-stubs                  pthread stubs - Stubs missing from libc for standard pthread functions
+nppi-6.5                       nppi - NVIDIA Performance Primitives - Image Processing
+gtk+-unix-print-2.0            GTK+ - GTK+ Unix print support
+cufftw-6.5                     cufftw - CUDA Fast Fourier Transform Wide
+opencv                         OpenCV - Open Source Computer Vision Library
+python-2.7                     Python - Python library
+xcb-randr                      XCB RandR - XCB RandR Extension
+nppc-6.5                       nppc - NVIDIA Performance Primitives - Core
+renderproto                    RenderProto - Render extension headers
+lcms2                          lcms2 - LCMS Color Management Library
+xcb-present                    XCB Present - XCB Present Extension
+gdk-2.0                        GDK - GTK+ Drawing Kit (x11 target)
+libssl                         OpenSSL - Secure Sockets Layer and cryptography libraries
+atk-bridge-2.0                 atk-bridge-2.0 - ATK/D-Bus Bridge
+libcares                       c-ares - asynchronous DNS lookup library
+libevent                       libevent - libevent is an asynchronous notification event loop library
+openssl                        OpenSSL - Secure Sockets Layer and cryptography libraries and tools
+libavcodec                     libavcodec - Libav codec library
+xi                             Xi - X Input Extension Library
+xrandr                         Xrandr - X RandR Library
+xcb-sync                       XCB Sync - XCB Sync Extension
+cairo-pdf                      cairo-pdf - PDF surface backend for cairo graphics library
+libxml-2.0                     libXML - libXML library version2.
+GraphicsMagick                 GraphicsMagick - GraphicsMagick image processing library
+python                         Python - Python library
+xcomposite                     Xcomposite - X Composite Extension Library
+xcursor                        Xcursor - X Cursor Library
+expat                          expat - expat XML parser
+GraphicsMagickWand             GraphicsMagickWand - GraphicsMagick Wand image processing library
+xcb-shm                        XCB Shm - XCB Shm Extension
+xt                             Xt - X Toolkit Library
+x11-xcb                        X11 XCB - X Library XCB interface
+xcb-shape                      XCB Shape - XCB Shape Extension
+libraw1394                     libraw1394 - Interface library for the Linux IEEE1394 drivers.
+xkbcomp                        xkbcomp - XKB keymap compiler
+pangocairo                     Pango Cairo - Cairo rendering support for Pango
+fixesproto                     FixesProto - X Fixes extension headers
+gmodule-export-2.0             GModule - Dynamic module loader for GLib
+damageproto                    DamageProto - Damage extension headers
+iso-codes                      iso-codes - ISO country, language, script and currency codes and translations
+dri                            dri - Direct Rendering Infrastructure
+x11                            X11 - X Library
+libevent_openssl               libevent_openssl - libevent_openssl adds openssl-based TLS support to libevent
+xdamage                        Xdamage - X Damage  Library
+cairo-xlib                     cairo-xlib - Xlib surface backend for cairo graphics library
+pygtksourceview-2.0            PyGtkSourceView - Python bindings for GtkSourceView
+usbutils                       usbutils - USB device database
+kbproto                        KBProto - KB extension headers
+xcb-dri2                       XCB DRI2 - XCB DRI2 Extension
+xcb-dri3                       XCB DRI3 - XCB DRI3 Extension
+pixman-1                       Pixman - The pixman library (version 1)
+gtk+-x11-2.0                   GTK+ - GTK+ Graphical UI Library (x11 target)
+cuda-6.5                       cuda - CUDA Driver Library
+cairo-xcb-shm                  cairo-xcb-shm - XCB/SHM functions for cairo graphics library
+compositeproto                 CompositeExt - Composite extension headers
+libdrm_amdgpu                  libdrm_amdgpu - Userspace interface to kernel DRM services for amdgpu
+dri2proto                      DRI2Proto - DRI2 extension headers
+cufft-6.5                      cufft - CUDA Fast Fourier Transform
+xxf86vm                        Xxf86vm - XFree86 Video Mode Extension Library
+icu-le                         icu-le - International Components for Unicode: Layout library
+xextproto                      XExtProto - XExt extension headers
+xorg-wacom                     xorg-wacom - X.Org Wacom Tablet driver.
+libtiff-4                      libtiff - Tag Image File Format (TIFF) library.
+libdrm_radeon                  libdrm_radeon - Userspace interface to kernel DRM services for radeon
+gobject-2.0                    GObject - GLib Type, Object, Parameter and Signal Library
+gtk+-unix-print-3.0            GTK+ - GTK+ Unix print support
+yelp-xsl                       yelp-xsl - Yelp XSLT Stylesheets
+mobile-broadband-provider-info mobile-broadband-provider-info - Mobile Broadband Service Provider Information Database
+libpng                         libpng - Loads and saves PNG files
+gthread-2.0                    GThread - Thread support for GLib
+cairo-fc                       cairo-fc - Fontconfig font backend for cairo graphics library
+xmu                            Xmu - Xmu Library
+fontconfig                     Fontconfig - Font configuration and customization library
+libcrypto                      OpenSSL-libcrypto - OpenSSL cryptography library
+cairo                          cairo - Multi-platform 2D graphics library
+python2                        Python - Python library
+icu-lx                         icu-lx - International Components for Unicode: Paragraph Layout library
+notify-python                  notify-python - Python bindings for libnotify
+libpcreposix                   libpcreposix - PCREPosix - Posix compatible interface to libpcre
+wayland-cursor                 Wayland Cursor - Wayland cursor helper library
+gnome-icon-theme               gnome-icon-theme - A collection of icons used as the basis for GNOME themes
+gdk-3.0                        GDK - GTK+ Drawing Kit
+pangoxft                       Pango Xft - Xft font support for Pango
+cairo-xlib-xrender             cairo-xlib-xrender - Xlib Xrender surface backend for cairo graphics library
+cairo-ft                       cairo-ft - FreeType font backend for cairo graphics library
+xf86vidmodeproto               XF86VidModeProto - XF86VidMode extension headers
+cairo-png                      cairo-png - PNG functions for cairo graphics library
+xft                            Xft - X FreeType library
+xkeyboard-config               XKeyboardConfig - X Keyboard configuration data
+sm                             SM - X Session Management Library
+atk                            Atk - Accessibility Toolkit
+libdrm_intel                   libdrm_intel - Userspace interface to intel kernel DRM services
+xineramaproto                  XineramaProto - Xinerama extension headers
+glu                            glu - Mesa OpenGL Utility library
+wayland-scanner                Wayland Scanner - Wayland scanner
+icu-uc                         icu-uc - International Components for Unicode: Common and Data libraries
+cairo-svg                      cairo-svg - SVG surface backend for cairo graphics library
+tbb                            Threading Building Blocks - Intel's parallelism library for C++
+libgflags                      gflags - A commandline flags library that allows for distributed flags
+libdc1394-2                    libdc1394 - 1394-based DC Control Library
+gtk+-wayland-3.0               GTK+ - GTK+ Graphical UI Library
+libxfce4sensors-1.0            libxfce4sensors - Library for the Xfce 4 Sensors Plugin and Viewer
+cublas-6.5                     cublas - CUDA Basic Linear Algebra Subprograms
+harfbuzz                       harfbuzz - HarfBuzz text shaping library
+xcb-render                     XCB Render - XCB Render Extension
+icu-i18n                       icu-i18n - International Components for Unicode: Internationalization library
+shared-mime-info               shared-mime-info - Freedesktop common MIME database
+xkbcommon                      xkbcommon - XKB API common to servers and clients
+libpcre                        libpcre - PCRE - Perl compatible regular expressions C library with 8 bit character support
+libexif                        libexif - Library for easy access to EXIF data
+cairo-script                   cairo-script - script surface backend for cairo graphics library
+gdk-x11-2.0                    GDK - GTK+ Drawing Kit (x11 target)
+protobuf-lite                  Protocol Buffers - Google's Data Interchange Format
+cusparse-6.5                   cusparse - CUDA Sparse Matrix Library
+npps-6.5                       npps - NVIDIA Performance Primitives - Signal Processing
+gdk-wayland-3.0                GDK - GTK+ Drawing Kit
+cairo-tee                      cairo-tee - tee surface backend for cairo graphics library
+freetype2                      FreeType 2 - A free, high-quality, and portable font engine.
+gtk+-x11-3.0                   GTK+ - GTK+ Graphical UI Library
+xfixes                         Xfixes - X Fixes  Library
+pm-utils                       pm-utils - Power management scripts for suspend and hibernate
+xcb-xfixes                     XCB XFixes - XCB XFixes Extension
+nvToolsExt-6.5                 nvToolsExt - NVIDIA Tools Extension
+xbitmaps                       X bitmaps - Bitmaps that are shared between X applications
+gtk+-2.0                       GTK+ - GTK+ Graphical UI Library (x11 target)
+xorg-sgml-doctools             xorg-sgml-doctools - Stylesheets and entities for X.Org documentation
+libglog                        libglog - Google Log (glog) C++ logging framework
+harfbuzz-gobject               harfbuzz - HarfBuzz text shaping library GObject integration
+xcb-glx                        XCB GLX - XCB GLX Extension
+xtrans                         XTrans - Abstract network code for X
+cudart-6.5                     cudart - CUDA Runtime Library
+udev                           udev - udev

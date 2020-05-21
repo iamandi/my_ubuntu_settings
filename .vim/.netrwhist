@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/andy/git_f/cicn/vicn/emu-radio'
+let g:netrw_dirhist_2='/home/andy/git_f/cicn/vicn/examples'
+let g:netrw_dirhist_3='/home/andy/git_f/cicn/vicn/examples/tutorial'
+let g:netrw_dirhist_4='/home/andy/git_f/cicn/vicn/netmodel'
+let g:netrw_dirhist_5='/home/andy/git_f/cicn/vicn/netmodel/interfaces'
+let g:netrw_dirhist_6='/home/andy/git_f/cicn/vicn/scripts'
+let g:netrw_dirhist_7='/home/andy/.vim'
