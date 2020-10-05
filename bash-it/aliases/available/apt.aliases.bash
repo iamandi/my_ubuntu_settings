@@ -14,7 +14,7 @@ function _set_pkg_aliases()
 		alias aptinst='sudo apt-get install -V'
 		alias aptupd='sudo apt-get update'
 		alias aptupg='sudo apt-get dist-upgrade -V && sudo apt-get autoremove'
-		alias aptupgd='sudo apt-get update && sudo apt-get dist-upgrade -V && sudo apt-get autoremove'
+		alias aptupgd='sudo apt-get update && sudo apt-get upgrade -V && sudo apt-get autoremove'
 		alias aptrm='sudo apt-get remove'
 		alias aptpurge='sudo apt-get remove --purge'
 

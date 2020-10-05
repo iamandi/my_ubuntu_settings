@@ -1,9 +1,16 @@
 #!/usr/bin/env bash
 
+# If not running interactively, don't do anything
+case $- in
+  *i*) ;;
+    *) return;;
+esac
+
 # Path to the bash it configuration
 export BASH_IT="{{BASH_IT}}"
 
-# Lock and Load a custom theme file
+# Lock and Load a custom theme file.
+# Leave empty to disable theming.
 # location /.bash_it/themes/
 export BASH_IT_THEME='bobby'
 
@@ -25,6 +32,10 @@ export TODO="t"
 
 # Set this to false to turn off version control status checking within the prompt for all themes
 export SCM_CHECK=true
+# Set to actual location of gitstatus directory if installed
+#export SCM_GIT_GITSTATUS_DIR="$HOME/gitstatus"
+# per default gitstatus uses 2 times as many threads as CPU cores, you can change this here if you must
+#export GITSTATUS_NUM_THREADS=8
 
 # Set Xterm/screen/Tmux title with only a short hostname.
 # Uncomment this (or set SHORT_HOSTNAME to something else),
